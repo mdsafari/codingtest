@@ -14,3 +14,6 @@ npm run dev
 ```
 npm run prod
 ```
+
+Note: 
+- it is compiled into dist folder
