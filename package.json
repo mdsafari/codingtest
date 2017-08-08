@@ -1,0 +1,40 @@
+{
+  "name": "iris",
+  "version": "1.0.0",
+  "description": "iris test",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack -d",
+    "prod": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdsafari/codingtest.git"
+  },
+  "author": "Mahdi Safari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsafari/codingtest/issues"
+  },
+  "homepage": "https://github.com/mdsafari/codingtest#readme",
+  "devDependencies": {
+    "bootstrap-loader": "^2.1.0",
+    "bootstrap-sass": "^3.3.7",
+    "css-loader": "^0.28.4",
+    "exports-loader": "^0.6.4",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^0.11.2",
+    "html-webpack-plugin": "^2.30.1",
+    "image-webpack-loader": "^3.3.1",
+    "imports-loader": "^0.7.1",
+    "jquery": "^1.11.3",
+    "node-sass": "^4.5.3",
+    "purify-css": "^1.2.5",
+    "purifycss-webpack": "^0.7.0",
+    "resolve-url-loader": "^2.1.0",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.4.1"
+  }
+}
