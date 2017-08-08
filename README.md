@@ -1,4 +1,11 @@
-# codingtest
+# CodingTest
+### Technologies:
+
+- bootstrap
+- jquery
+- webpack
+
+## How To Run
 
 1- Run the following
 ```
